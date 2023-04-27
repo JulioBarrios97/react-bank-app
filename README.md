@@ -1,39 +1,46 @@
-Bank Modern App
+# Bank Modern App
 This is a private module for a modern bank application, built with React and Vite.
 
-Usage
+## Usage
 To start a development server, run:
 
-bash
-Copy code
+```bash
 npm run dev
+```
 To build the app for production, run:
 
-bash
-Copy code
+```bash
 npm run build
+```
 To lint the source code, run:
 
-bash
-Copy code
+```bash
 npm run lint
+```
 To preview the production build, run:
 
-bash
-Copy code
+```bash
 npm run preview
-Dependencies
-React
-React-DOM
-DevDependencies
-@types/react
-@types/react-dom
-@vitejs/plugin-react
-autoprefixer
-eslint
-eslint-plugin-react
-eslint-plugin-react-hooks
-eslint-plugin-react-refresh
-postcss
-tailwindcss
-vite
+```
+
+## Dependencies
+
+- React.
+- React-DOM
+
+## Dev Dependencies
+
+- @types/react
+- @types/react-dom
+- @vitejs/plugin-react
+- Rautoprefixer
+- eslint
+- eslint-plugin-react
+- eslint-plugin-react-hooks
+- eslint-plugin-react-refresh
+- postcss
+- tailwindcss
+- vite
+
+
+- React-DOM
