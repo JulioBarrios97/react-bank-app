@@ -1,5 +1,7 @@
 # Bank Modern App
-This is a private module for a modern bank application, built with React and Vite.
+This is a modern bank application, built with React and Vite.
+
+[![asd.png](https://i.postimg.cc/s2QhW3PN/asd.png)](https://postimg.cc/zLNvZZcC)
 
 ## Usage
 To start a development server, run:
